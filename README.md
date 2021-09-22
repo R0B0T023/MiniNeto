@@ -1,6 +1,6 @@
 # MiniNeto
 
-							Proyecto Pimer Parcial Programacion IV
+						Proyecto Pimer Parcial Programacion IV
 
 - Desarrollar una aplicacion que este dedicada a algo,
 - Conectarse con una base de datos,
