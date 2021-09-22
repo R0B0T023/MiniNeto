@@ -12,7 +12,7 @@
 # Pasos:
 
 1.- Descargar el RAR del Programa
-2.- Descomprimir Archivo RAR
+<p>2.- Descomprimir Archivo RAR</p>
 3.- (Si no tienes la carpeta BD en C:\BD)
 	3.1.-Crear La carpeta BD en C:\
 4.- Mover Archivo BDMiniNeto.accdb a la carpeta C:\BD
